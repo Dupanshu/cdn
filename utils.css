@@ -71,10 +71,13 @@
 /* grid class is for parent div */
 .grid {
     display: grid;
-    /* place-items: center; */
     /* justify-content: space-around; */
     /* gap: 1.2rem; */
     /* grid-template-columns: repeat(); *//* justify here (?, ?fr) */
+}
+
+.place-center {
+  place-items: center;
 }
 
 /* span class is for child div */
@@ -83,6 +86,7 @@
     chid element/div */
 }
 
+.gap { gap: 1.2rem; }
 .gap-5 { gap: 5px; }
 .gap-10 { gap: 10px; }
 .gap-15 { gap: 15px; }
