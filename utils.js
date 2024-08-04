@@ -64,7 +64,7 @@ export function print(...args) {
 // Recursion till 0
 export function recursion(n) {
   if (n > 0) {
-      console.log(n);
+      //console.log(n);
       recursion(n - 1);
   }
 }
