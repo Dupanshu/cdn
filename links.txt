@@ -1,7 +1,7 @@
 cdn links
     Favicon
-    <link rel="icon" href="https://cdn.jsdelivr.net/gh/dupanshu/cdn@master/favicon.png" type="image/x-icon">
+    <link rel="icon" href="https://cdn.jsdelivr.net/gh/Dupanshu/cdn@master/favicon.png" type="image/x-icon">
 
     Reset.css
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dupanshu/cdn@master/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Dupanshu/cdn@master/reset.css">
 
