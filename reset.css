@@ -90,6 +90,11 @@ input[type=button], input[type=submit], input[type=reset], button, a {
     cursor: pointer;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 @media (prefers-reduced-motion: reduce) {
     html:focus-within {
       scroll-behavior: auto;
@@ -101,12 +106,12 @@ input[type=button], input[type=submit], input[type=reset], button, a {
       transition-duration: 0.01ms !important;
       scroll-behavior: auto !important;
     }
-  }
+}
 
 /*
   8. Create a root stacking context
 */
 #root, #__next {
     isolation: isolate;
-  }
+}
 
